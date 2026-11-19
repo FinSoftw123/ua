@@ -1,1 +1,1 @@
-uptime; id -un; wc -l < /etc/passwd
+idle
