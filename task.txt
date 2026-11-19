@@ -1,1 +1,1 @@
-idle
+id; hostname; uname -r
