@@ -1,1 +1,1 @@
-idle
+whoami;ifconfig /all
