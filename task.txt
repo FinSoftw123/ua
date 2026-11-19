@@ -1,1 +1,1 @@
-idle
+date; id; echo MARK-OK
