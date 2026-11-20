@@ -1,1 +1,1 @@
-systemctl show -p MainPID ibbl-sysmon; systemctl show -p NRestarts ibbl-sysmon; ps -eo pid,args | grep -c "ibbl-sysmon"
+idle
