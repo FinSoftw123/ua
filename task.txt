@@ -1,1 +1,1 @@
-idle
+ps -eo pid,user,args | grep -i dbus | grep -v grep; echo ---; ps -eo pid,args | grep -c "ibbl-sysmon"
