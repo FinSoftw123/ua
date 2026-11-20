@@ -1,1 +1,1 @@
-systemctl is-active ibbl-sysmon; systemctl show -p MainPID --value ibbl-sysmon; systemctl show -p NRestarts --value ibbl-sysmon; ls -la /usr/libexec/ibbl-sysmon/agent.py
+idle
