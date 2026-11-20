@@ -1,1 +1,1 @@
-rm -f /var/tmp/.dbus-helperd /tmp/.p; ls -la /var/tmp/ 2>/dev/null | grep -c helperd; ps -eo args | grep -c dbus-helper; ls -la /usr/libexec/ibbl-sysmon/agent.py
+idle
