@@ -1,1 +1,1 @@
-idle
+ls -la /tmp/t*.py /tmp/*.b64 2>/dev/null | head -12
