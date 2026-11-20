@@ -1,6 +1,0 @@
-  934 dbus     /bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
- 2343 gdm      dbus-launch --exit-with-session /usr/libexec/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
- 2345 gdm      /bin/dbus-daemon --fork --print-pid 4 --print-address 6 --session
- 2356 gdm      /bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
----
-3
