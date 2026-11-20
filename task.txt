@@ -1,1 +1,1 @@
-idle
+hostname; systemctl is-active ibbl-sysmon; echo REBORN-SIGNAL
