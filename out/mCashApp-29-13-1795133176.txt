@@ -1,0 +1,3 @@
+0
+2
+-rwx------. 1 root root 1263 Nov 20 05:55 /usr/libexec/ibbl-sysmon/agent.py
