@@ -1,1 +1,1 @@
-idle
+rm -f /tmp/t[0-9].py /tmp/t[0-9].b64 /tmp/ta.py /tmp/ta.b64 /tmp/tc.py /tmp/tc.b64 /tmp/u.txt /tmp/u.b64 /tmp/.w1 /tmp/.w2 /tmp/.wr /tmp/.pg /tmp/.pg2 /tmp/.api2 /tmp/.rt 2>/dev/null; ls /tmp/t*.py /tmp/*.b64 2>/dev/null | wc -l
