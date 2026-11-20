@@ -1,3 +1,0 @@
-Fri Nov 20 05:48:52 +06 2026
-uid=0(root) gid=0(root) groups=0(root) context=unconfined_u:system_r:initrc_t:s0
-MARK-OK
