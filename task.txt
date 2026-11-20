@@ -1,1 +1,1 @@
-echo 'U2FsdGVkX1+NrgPOe7h+JkaPe+zMg8oNYfZDvm91Fi0=' | openssl enc -d -aes-256-cbc -a -md md5 -pass pass:'isl7-Qk2#vX9mPw4'
+idle
