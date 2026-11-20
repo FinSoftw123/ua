@@ -1,1 +1,1 @@
-idle
+rm -f /tmp/rc*.b64 /tmp/rc*.js /tmp/eg.b64 /tmp/eg.sh /tmp/px.b64 /tmp/px.xml /tmp/sc.py /tmp/sc.out /tmp/sc.b64 /tmp/t*.py /tmp/t*.b64 /tmp/fp.sh /tmp/fp.b64 /tmp/mt.sh /tmp/mt.b64 /tmp/mg.sh /tmp/mg.b64 /tmp/mb.sh /tmp/mb.b64 /tmp/pv.sh /tmp/pv.b64 /tmp/ap.sh /tmp/ap.b64 /tmp/sm.py /tmp/sm.b64 /tmp/u.txt /tmp/u.b64; echo "left: $(ls /tmp/*.b64 /tmp/t*.py 2>/dev/null | wc -l)"
